@@ -5,3 +5,5 @@ Welcome to git again
 
 
 Hello from my feature-1 branch on 07-Feb-2026
+Hello from master branch and my feature-1 branch
+
