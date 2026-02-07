@@ -5,4 +5,4 @@ Welcome to git again
 
 
 
-Hello from feature-1 and master branch
+Hello from master branch
