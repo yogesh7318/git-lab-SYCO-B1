@@ -5,3 +5,4 @@ Welcome to git again
 
 
 Update message from GitHub.com
+Hello from feature-2 and master branch
