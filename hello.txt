@@ -4,6 +4,5 @@ Welcome to git
 Welcome to git again
 
 
-
-Hello from feature-2 and master branch
+Update message from GitHub.com
 
